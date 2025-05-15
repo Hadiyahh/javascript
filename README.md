@@ -1,2 +1,1 @@
-# javascript
-Practicing javascript 
+# javascript-counter-app
